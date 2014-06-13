@@ -1,0 +1,1 @@
+javaw -cp .;swt-3.7.2-win32-x86_64.jar -Djavax.net.ssl.trustStore=mySrvKey -Djavax.net.ssl.trustStorePassword=123456 Program

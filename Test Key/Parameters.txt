@@ -1,0 +1,7 @@
+Server (KeyStore) JVM params:
+
+-Djavax.net.ssl.keyStore=mySrvKey -Djavax.net.ssl.keyStorePassword=123456
+
+Chat (TrustStore) JVM params:
+
+-Djavax.net.ssl.trustStore=mySrvKey -Djavax.net.ssl.trustStorePassword=123456
